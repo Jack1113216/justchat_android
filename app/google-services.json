@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44909123726",
+    "firebase_url": "https://just-chat-831f9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "just-chat-831f9",
+    "storage_bucket": "just-chat-831f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44909123726:android:3ce32eae5d097717d4d1df",
+        "android_client_info": {
+          "package_name": "com.oneplay.justtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44909123726-t25sbqon65triabp8uka0nhqbb5n8hr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneplay.justtalk",
+            "certificate_hash": "7072c11c8a24d5c6de3ceb839123410db7d2f00a"
+          }
+        },
+        {
+          "client_id": "44909123726-ho78646jkcuks8q4csatttrkpog4rppr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGU55GAB4oUvcAKvGrXTnTR9eFUTVfpxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44909123726-ho78646jkcuks8q4csatttrkpog4rppr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
